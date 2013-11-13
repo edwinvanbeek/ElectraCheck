@@ -1,3 +1,3 @@
 ElectraCheck
 ============
-Dit is tijdelijk voor Interpolis.nl / Electracheck
+Dit is tijdelijk voor Interpolis.nl / Electracheck.
