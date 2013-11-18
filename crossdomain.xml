@@ -2,4 +2,5 @@
 <!DOCTYPE cross-domain-policy SYSTEM "http://www.macromedia.com/xml/dtds/cross-domain-policy.dtd">
 <cross-domain-policy>
 <allow-access-from domain="acc-www.interpolis.nl" secure="false" />
+<allow-access-from domain="www.interpolis.nl" secure="false" />
 </cross-domain-policy>
